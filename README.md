@@ -18,9 +18,11 @@
 
 ## Sobre mim
 
-Sou desenvolvedor backend com domínio de **Java, Spring Boot e MySQL**. Minha stack também inclui **Docker, Git, Postman e IntelliJ IDEA**, ferramentas que utilizo no desenvolvimento de aplicações.
+Sou desenvolvedor backend com foco em **transformar necessidades reais em aplicações bem estruturadas**. Gosto de entender as regras de negócio por trás de cada funcionalidade e pensar em como organizar a lógica e os dados para construir soluções consistentes e fáceis de manter.
 
-Busco uma oportunidade em **desenvolvimento backend** para aplicar meus conhecimentos, contribuir com a equipe e continuar evoluindo profissionalmente.
+Valorizo código legível, atenção aos detalhes e decisões técnicas que facilitem a evolução de um projeto. A troca de conhecimento e a disposição para aprender fazem parte da forma como encaro o desenvolvimento.
+
+Busco uma oportunidade em **desenvolvimento backend** para contribuir com uma equipe, assumir responsabilidades e crescer com os desafios de cada entrega.
 
 ## Tecnologias e ferramentas
 
